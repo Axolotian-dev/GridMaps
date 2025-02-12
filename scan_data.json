@@ -1,6 +1,6 @@
 {
     "content1": {
-        "test": "42335",
-        "test2": "4354"
+        "name": "test",
+        "description": "test description"
     }
 }
